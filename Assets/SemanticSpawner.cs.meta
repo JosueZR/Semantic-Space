@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a820dae1a9eb9224aab1f18bbfb42872
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - archivoCSV: {instanceID: 0}
+  - prefabPunto: {instanceID: 0}
+  - contenedor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e4dd754cf34a004aaecf04843e0246d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasPanel: {instanceID: 0}
+  - formulaText: {instanceID: 0}
+  - statsText: {instanceID: 0}
+  - miRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
